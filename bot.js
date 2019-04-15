@@ -1,11 +1,4 @@
-const Discord = require('discord.js');
-const client = new Discord.Client();
-var prefix = "€"
-const developers = ["353573128665956363","id"]
-
-
-
-       const Discord = require('discord.js'); // npm install discord.js --save
+const Discord = require('discord.js'); // npm install discord.js --save
 
 const Util = require('discord.js'); 
 
@@ -353,17 +346,6 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Type ${prefix}play`,"http://twitch.tv/alpha")
 });
-
-
-
-
-
-
-
-
-
-
-
 
 
 
