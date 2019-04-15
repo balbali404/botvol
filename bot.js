@@ -349,4 +349,4 @@ client.user.setGame(`Type ${prefix}play`,"http://twitch.tv/alpha")
 });
  
 // للهيروكو client.login(process.env.BOT_TOKEN);
-// للخوادم العادية  cilent.login('token');
+// للخوادم العادية  cilent.login('NTY3MTkwNjc0Mzk1NDk2NDQ4.XLS3FA.zTSYhEKMAWAqz97w1aRgr4mcMS0');
